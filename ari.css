@@ -1,0 +1,18 @@
+html{
+    background: rgb(102, 220, 102) 
+}
+h1{
+    color: brown;
+}
+.ari{
+    color:rgb(47, 60, 201);
+}
+#ar{
+    color: rgb(69, 37, 102);
+}
+h1[draggable="false"]{
+    color: gold;
+}
+*{
+    color: green ;
+}
